@@ -1,3 +1,6 @@
 # Java OOP Example
 
-Collection of java object oriented programming project
+Tugas PBO Modify Source Code
+
+Source Project :
+https://github.com/wrideveloper/java-oop-example
